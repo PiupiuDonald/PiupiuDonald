@@ -2,4 +2,5 @@
 
 Meu nome é Ruan Mendes😎
 
--Gosto de fontend 🤙😋🤙
+-Gosto de frontend 
+e sempre to de boa 🤙😋🤙
