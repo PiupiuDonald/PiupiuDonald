@@ -1,3 +1,5 @@
 # Hi there 👋
 
-Meu nome é Ruan Mendes
+Meu nome é Ruan Mendes😎
+
+-Gosto de fontend 🤙😋🤙
